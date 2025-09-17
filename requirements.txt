@@ -1,0 +1,25 @@
+# Core
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+tqdm
+Pillow
+
+# Classic CV features
+opencv-contrib-python      # for SIFT (cv2.SIFT_create)
+scikit-image               # HOG, Gabor filters
+
+# ML (classic)
+scikit-learn
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+timm                      # many pretrained CNNs
+albumentations            # data augmentation
+
+# Jupyter
+jupyterlab
